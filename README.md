@@ -1,4 +1,4 @@
-# CertiSign - Open Source Digital Certificate Signing And Generation Tool
+# CertiSign - Open Source Digital Achievement Certificate Generation And Signing Tool
 
 ### This is a simple tool to generate digital certificates and badges for the issued achievements.
 
