@@ -14,6 +14,7 @@ CONFIG={
         'name':'certisign',
         'username':'',  
         'password':'',
+        'url':'mongodb://localhost:27017/certisign',
     },
     'server':{
         'host':'',
